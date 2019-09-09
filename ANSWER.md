@@ -1,13 +1,15 @@
 # Answers
 
-Nom : 
-Prénom : 
+Nom : Descamps
+Prénom : Jules-Yan
 
 # 1.
 Qu'est-ce qu'une instance EC2 ?
+C'est un serveur virtuel hébergé dans EC2 (elastic compute cloud) pour exécuter des applications sur l'infrastructure AWS
 
 # 2.
 Qu'est-ce qu'un VPC ?
+Amazon Virtual Private Cloud (VPC) permet de lancer des ressources AWS dans un réseau virtuel défini. Ce réseau virtuel ressemble beaucoup à un réseau traditionnel et présente l'avantage d'utiliser l'infrastructure évolutive d'AWS. 
 
 # 3.
 A quoi sert un NSG ?
