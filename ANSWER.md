@@ -9,6 +9,7 @@ C'est un serveur virtuel hébergé dans EC2 (elastic compute cloud) pour exécut
 
 # 2.
 Qu'est-ce qu'un VPC ?
+espece de bulle ou on défini notre réseau nous meme
 Amazon Virtual Private Cloud (VPC) permet de lancer des ressources AWS dans un réseau virtuel défini. Ce réseau virtuel ressemble beaucoup à un réseau traditionnel et présente l'avantage d'utiliser l'infrastructure évolutive d'AWS. 
 
 # 3.
