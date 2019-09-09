@@ -13,6 +13,7 @@ Amazon Virtual Private Cloud (VPC) permet de lancer des ressources AWS dans un r
 
 # 3.
 A quoi sert un NSG ?
+Un Network Security Group est constitué d'un ensemble de règles de contrôle d'accès décrivant les filtres de trafic. Ceux-ci peuvent être associés à une machine virtuelle ou à un sous-réseau de la même région. Les règles définies dans le NSG servent de filtres. Sur le chemin d'entrée, ils sont appliqués avant que le trafic entre dans la VM.
 
 # 4.
 Quelles sont les 5 propriétés désirables du cloud ?
