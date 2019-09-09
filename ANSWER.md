@@ -21,7 +21,7 @@ Quelles sont les 5 propriétés désirables du cloud ?
 
 # 5.
 Qu'est-ce que l'A/B Testing ?
-
+Le test A/B (ou A/B testing) est une technique de marketing qui consiste à proposer plusieurs variantes d'un même objet qui diffèrent selon un seul critère (par exemple, la couleur d'un emballage) afin de déterminer la version qui donne les meilleurs résultats auprès des consommateurs. Le même principe est appliqué aà l'informatique.
 # 6.
 Comment programmer le cloud ?
 
