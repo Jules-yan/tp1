@@ -37,6 +37,8 @@ Le test A/B (ou A/B testing) est une technique de marketing qui consiste à prop
 # 6.
 Comment programmer le cloud ?
 
+Il faut utiliser la configuration Infrastructure as Code
+
 # 7.
 Quelle est la technique pour faire un déploiement sans interruption de service ?
 
