@@ -40,6 +40,8 @@ Comment programmer le cloud ?
 # 7.
 Quelle est la technique pour faire un déploiement sans interruption de service ?
 
+En faisant du Canary Release
+
 # 8.
 Qu'est-ce que le Canary release ?
 
