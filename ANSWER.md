@@ -32,8 +32,8 @@ Approvisionnement en Libre-service (L’approvisionnement en libre service perme
 # 5.
 Qu'est-ce que l'A/B Testing ?
 
-Le test A/B (ou A/B testing) est une technique de marketing qui consiste à proposer plusieurs variantes d'un même objet qui diffèrent selon un seul critère (par exemple, la couleur d'un emballage) afin de déterminer la version qui donne les meilleurs résultats auprès des consommateurs. Le même principe est appliqué à l'informatique.
-
+L’A/B testing consiste à comparer deux versions d’une page web ou d’une application afin de vérifier laquelle est la plus performante. Ces variations, dénommées A et B, sont présentées de manières aléatoires aux utilisateurs. Une partie d’entre eux sera alors dirigée vers la première version tandis que l’autre sera affectée à la seconde. Une analyse statistique permet par la suite de tester l’efficacité de la version A et B sur différents indicateurs comme le taux de conversion.
+b
 # 6.
 Comment programmer le cloud ?
 
@@ -52,6 +52,9 @@ Ce pattern permet de tester les modifications et de s’assurer qu’elles fonct
 
 # 9.
 Comment changer de taille de machine virtuelle ?
+
+Il y a une interface graphique sur le provider, Amazon Web Service par exemple. On peux manuellement augmenter la taille de sa Machine Virtuelle et automatiquement l'infrastructure est modifiée.
+On va dans les paramètres de la machine et on modifie la taille de la VM comme on le souhaite.
 
 # 10.
 Qu'est-ce que le Blue/Green deployment ?
